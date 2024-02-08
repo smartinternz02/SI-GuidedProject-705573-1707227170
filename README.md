@@ -1,3 +1,5 @@
+#Katalon_CURAHealthCare_Services
+
 CURA Healthcare Service
 Earlier days there is no prior option to take appointments from doctor to consult. Patients need to wait for a long time and even if you reach the hospital also sometimes doctors won't be available. So in order 
 to overcome these issues CURA Healthcare Service provides a prior appointment feature to overcome the starvation and other issues. Worldwide, Cura health care service helps to track and check the availability of 
